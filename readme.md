@@ -1,0 +1,1 @@
+# Girilen 2 Boyutlu Dizinin Transpozunu Bulan Ve Ekrana Yazdıran Program.
